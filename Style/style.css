@@ -13,7 +13,7 @@ header{
   background-color: rgba(38, 188, 131, 0.329);
   background-size: cover;
   width: 1440px;
-  height: 950px;
+  height: 700px;
 }
 .header-nav{
   margin: 24px 130px;
@@ -27,7 +27,7 @@ header{
   list-style: none;
 
 }
-.Treloo{
+.logo{
   margin-right: 430px;
 }
 .header-content {
@@ -49,10 +49,23 @@ header{
   margin-top: 40px;
   margin-bottom: 290px;
 }
+.header-top-box{
+  width: 280px;
+  height: 100px;
+  display: block;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid grey;
 
+}
+.header-bt-box{
+  width: 1180px;
+  height: 275px;
+  border: 1px solid grey;
+}
 .special-upcoming{
-width: 1440px;
-height: 1015px;
-top: 1177px;
+  width: 1440px;
+  height: 1015px;
+  top: 1177px;
 
 }
